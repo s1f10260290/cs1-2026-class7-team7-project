@@ -40,6 +40,11 @@ li {
     
 }
 
+img.step {
+    height:23.2px;
+    width: 23.2px;
+}
+
 .steps {
     display: flex;
 }
