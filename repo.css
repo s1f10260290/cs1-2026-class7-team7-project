@@ -1,5 +1,5 @@
 h1 {
-
+    color:#f89308;
 }
 
 h2 {
@@ -20,11 +20,12 @@ li {
 
 /*class*/
 .container {
-
+    font-family:'bahnschrift Condensed';
 }
 
-.logo {
 
+.logo {
+    color:#f89308;
 }
 
 .menu {
@@ -35,12 +36,17 @@ li {
 
 }
 
-.steps {
+.step {
+    
+}
 
+.steps {
+    display: flex;
 }
 
 .arrow {
-
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .feature-list{
