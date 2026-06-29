@@ -7,11 +7,11 @@ h2 {
 }
 
 h3 {
-
+    width:40%;
 }
 
 p {
-
+    width:40%;
 }
 
 li {
@@ -41,8 +41,7 @@ li {
 }
 
 img.step {
-    height:23.2px;
-    width: 23.2px;
+    height:40%;
 }
 
 .steps {
